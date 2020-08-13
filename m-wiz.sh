@@ -1,4 +1,3 @@
-#SCRIPT BY N17R0 DONT TRY TO COPY OR MODIFY 
 #M-WIZ TOOL FOR ALL METASPLOIT THINGS
 #data/data/com.termux/files/usr/bin/bash
 #colours
@@ -22,8 +21,8 @@ echo -e "$red
                          ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
                                                                 v 1.1$rset"
 echo " "                                                          
-echo -e "$red                                   ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                              ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                                   ▶ Coded by$gurugovind600$red ◀$rset"
+echo -e "$red                            
 echo " "
 echo " "
 echo -e "$pink                         >>>  [ click ENTER to continue ] <<<$rset"
